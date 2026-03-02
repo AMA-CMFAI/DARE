@@ -1,4 +1,4 @@
-# DARE & RCodingAgent: Distribution-Aware Retrieval for R Statistical Workflows
+<img width="3200" height="1312" alt="Gemini_Generated_Image_h25dizh25dizh25d" src="https://github.com/user-attachments/assets/4709e898-648a-480f-9fb8-c4fa81e33c7b" />
 
 [![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/Stephen-SMJ/DARE-R-Retriever)
 [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/Stephen-SMJ/RPKB)
