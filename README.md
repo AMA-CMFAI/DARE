@@ -1,8 +1,12 @@
-<img width="3200" height="1312" alt="Gemini_Generated_Image_h25dizh25dizh25d" src="https://github.com/user-attachments/assets/4709e898-648a-480f-9fb8-c4fa81e33c7b" />
+<img width="3200" height="1312" alt="Gemini_Generated_Image_h25dizh25dizh25d (3)" src="https://github.com/user-attachments/assets/2412173f-3045-4b16-9105-d5540eb530ea" />
+
+<div align="center">
 
 [![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/Stephen-SMJ/DARE-R-Retriever)
 [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/Stephen-SMJ/RPKB)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+</div>
 
 > This repository contains the official code, model, and database for the paper: **Enhancing LLM Agents with Distribution-Conditional Retrieval for Data Analysis**.
 
