@@ -113,5 +113,3 @@ for rank, (doc_id, meta) in enumerate(zip(results['ids'][0], results['metadatas'
 [//]: # (  year={2026})
 
 [//]: # (})
-
-```
