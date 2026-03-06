@@ -97,19 +97,16 @@ for rank, (doc_id, meta) in enumerate(zip(results['ids'][0], results['metadatas'
 [//]: # (## 📖 Citation)
 
 [//]: # ()
-[//]: # (If you find DARE, RPKB, or RCodingAgent useful in your research, please cite our work:)
+If you find DARE, RPKB, or RCodingAgent useful in your research, please cite our work:
 
-[//]: # ()
-[//]: # (```bibtex)
-
-[//]: # (@article{sun2026dare,)
-
-[//]: # (  title={Enhancing LLM Agents with Distribution-Conditional Retrieval for Data Analysis},)
-
-[//]: # (  author={Sun, Stephen and others},)
-
-[//]: # (  journal={arXiv preprint arXiv:XXXX.XXXXX},)
-
-[//]: # (  year={2026})
-
-[//]: # (})
+```bibtex
+@article{sun2026dare,
+      title={DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval}, 
+      author={Maojun Sun and Yue Wu and Yifei Xie and Ruijian Han and Binyan Jiang and Defeng Sun and Yancheng Yuan and Jian Huang},
+      year={2026},
+      eprint={2603.04743},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2603.04743}, 
+}
+```
