@@ -8,11 +8,7 @@
 
 </div>
 
-> This repository contains the official code, model, and database for the paper: **Enhancing LLM Agents with Distribution-Conditional Retrieval for Data Analysis**.
-
-Large Language Model (LLM) agents can automate data-science workflows, but many rigorous statistical methods implemented in R remain underused because LLMs struggle with statistical knowledge and tool retrieval. Existing retrieval-augmented approaches focus on function-level semantics and ignore data distribution, producing suboptimal matches. 
-
-We propose **DARE (Distribution-Aware Retrieval Embedding)**, a lightweight, plug-and-play retrieval model that incorporates data distribution information into function representations for R package retrieval.
+> This repository contains the official code, model, and database for the paper: **DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval**， a lightweight, plug-and-play retrieval model that incorporates data distribution information into function representations for R package retrieval.
 
 ## 🌟 Key Contributions
 
@@ -77,6 +73,11 @@ for rank, (doc_id, meta) in enumerate(zip(results['ids'][0], results['metadatas'
     print(f"[{rank + 1}] Package: {meta.get('package_name')} :: Function: {meta.get('function_name')}")
 
 ```
+## To do:
+- Upload codes of RCodingAgent.
+- Upload the data for training and testing.
+- Upload the data for Benchmark. 
+- Upload codes of evaluation.
 
 
 [//]: # (## 📂 Repository Structure)
@@ -110,3 +111,8 @@ If you find DARE, RPKB, or RCodingAgent useful in your research, please cite our
       url={https://arxiv.org/abs/2603.04743}, 
 }
 ```
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=AMA-CMFAI/DARE&type=date&legend=top-left)](https://www.star-history.com/?repos=AMA-CMFAI%2FDARE&type=date&legend=top-left)
