@@ -115,4 +115,10 @@ If you find DARE, RPKB, or RCodingAgent useful in your research, please cite our
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=AMA-CMFAI/DARE&type=date&legend=top-left)](https://www.star-history.com/?repos=AMA-CMFAI%2FDARE&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=AMA-CMFAI%2FDARE&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AMA-CMFAI/DARE&type=date&theme=dark&legend=top-left&sealed_token=fX7RcyNq49J5Xxgs9pdn9S-SDwtj6ROkoSoIM5bBwxAsXdr9ZT51uF9noXm7vATPVYa3sWa1i9XRTybjGXGPjNTZx3gQtvzD2-5fGOtIh6qvS1Bk4YZtJZHh0qN1hWA86IRVEqxUvXHVAuHmB6ozQTd9KRyVQtJXE3yQR6G5ouKbufvu017rUkf5xpvE" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AMA-CMFAI/DARE&type=date&legend=top-left&sealed_token=fX7RcyNq49J5Xxgs9pdn9S-SDwtj6ROkoSoIM5bBwxAsXdr9ZT51uF9noXm7vATPVYa3sWa1i9XRTybjGXGPjNTZx3gQtvzD2-5fGOtIh6qvS1Bk4YZtJZHh0qN1hWA86IRVEqxUvXHVAuHmB6ozQTd9KRyVQtJXE3yQR6G5ouKbufvu017rUkf5xpvE" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AMA-CMFAI/DARE&type=date&legend=top-left&sealed_token=fX7RcyNq49J5Xxgs9pdn9S-SDwtj6ROkoSoIM5bBwxAsXdr9ZT51uF9noXm7vATPVYa3sWa1i9XRTybjGXGPjNTZx3gQtvzD2-5fGOtIh6qvS1Bk4YZtJZHh0qN1hWA86IRVEqxUvXHVAuHmB6ozQTd9KRyVQtJXE3yQR6G5ouKbufvu017rUkf5xpvE" />
+ </picture>
+</a>
